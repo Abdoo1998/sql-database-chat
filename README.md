@@ -13,7 +13,7 @@ This project provides a Gradio-based chat interface for interacting with SQL dat
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/sql-database-chat.git
+   git clone https://github.com/Abdoo1998/sql-database-chat.git
    cd sql-database-chat
    ```
 
